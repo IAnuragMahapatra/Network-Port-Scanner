@@ -5,10 +5,9 @@
 
 An efficient and user-friendly network port scanner built with Python's Tkinter, socket and threading libraries. This tool helps identify open ports on a target IP address, making it ideal for network diagnostics and security assessments. Compatible with Windows, macOS and Linux.
 
-```diff
-- ⚠️Important: Always ensure you have explicit permission before scanning a network.
-- Unauthorized port scanning may violate laws and regulations and could result in legal consequences.
-```
+> [!IMPORTANT]
+> Always ensure you have explicit permission before scanning a network.                  
+> Unauthorized port scanning may violate laws and regulations and could result in legal consequences.
 
 
 ## ✨ Features
